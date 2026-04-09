@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1 align="center">🚀 SMCHECKER VIP EDITION</h1>
+  <h1 align="center">🚀 SMCHECKER</h1>
 </p>
 
 
