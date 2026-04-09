@@ -44,7 +44,6 @@
 # Linux
 
     ```bash
-
     $ sudo apt update && sudo apt upgrade -y
     $ sudo apt install git python3 python3-pip -y
     $ git clone https://github.com/SmSystems01/SMCHECKER.git
