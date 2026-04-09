@@ -8,7 +8,7 @@
 ---
 
 
-## 🚀 Release Information
+##  Release Information
 * **Version:** 1.0
 * **Status:** Online
 
@@ -29,14 +29,28 @@
 
 
 
-
-
 # Termux
 
-```bash
-$ termux-setup-storage
-$ pkg update -y && pkg upgrade -y
-$ pkg install git python -y
-$ git clone https://github.com/SmSystems01/SMCHECKER.git
-$ pip install -r requirements.txt
-$ python start.py
+    ```bash
+    $ termux-setup-storage
+    $ pkg update -y && pkg upgrade -y
+    $ pkg install git python -y
+    $ git clone
+    $ https://github.com/SmSystems01/SMCHECKER.git
+    $ pip install -r requirements.txt
+    $ python start.py
+
+
+# Linux
+
+    ```bash
+
+    $ sudo apt update && sudo apt upgrade -y
+    $ sudo apt install git python3 python3-pip -y
+    $ git clone https://github.com/SmSystems01/SMCHECKER.git
+    $ pip install -r requirements.txt
+    $ python start.py
+
+
+
+
