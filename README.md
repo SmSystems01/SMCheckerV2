@@ -10,7 +10,8 @@
 
 ##  Release Information
 * **Version:** 1.0
-* **Status:** Online
+* **Status:** Release Stable
+* **Build:** (Python)
 
 
 
