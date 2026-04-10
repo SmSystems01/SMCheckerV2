@@ -39,8 +39,7 @@
     $ pkg update -y && pkg upgrade -y
     $ pkg install git python -y
     $ git clone https://github.com/SmSystems01/SMCHECKER.git
-
-    $ cd SmcheckerVip
+    $ cd SmCheckerVip
     $ pip install -r requirements.txt
     $ python start.py
 
@@ -51,6 +50,7 @@
     $ sudo apt update && sudo apt upgrade -y
     $ sudo apt install git python3 python3-pip -y
     $ git clone https://github.com/SmSystems01/SMCHECKER.git
+    $ cd SmCheckerVip
     $ pip install -r requirements.txt
     $ python start.py
 
