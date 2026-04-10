@@ -58,20 +58,18 @@
 
 *This tool is designed purely for educational purposes and includes real gateway APIs! It meticulously checks the cards and provides accurate results, indicating whether 3D authentication is required.*
 
-# Channel
 
 <p align="center">
   <h2 align="center">📢 Channel</h2>
-  <a href="https://t.me/SmSystems01" target="_blank">
+  <a href="https://t.me/SmSystems0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
   </a>
 </p>
 
-# Contact Developer
 
 <p align="center">
   <h2 align="center">👨‍💻 Contact Developer</h2>
-  <a href="https://t.me/SmSystems0" target="_blank">
+  <a href="https://t.me/SmSystems01" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" alt="Contact Developer">
   </a>
 </p>
