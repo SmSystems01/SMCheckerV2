@@ -40,6 +40,7 @@
     $ pkg install git python -y
     $ git clone
     $ https://github.com/SmSystems01/SMCHECKER.git
+    $ cd SmcheckerVip
     $ pip install -r requirements.txt
     $ python start.py
 
