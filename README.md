@@ -1,5 +1,5 @@
-<h1 align="center">💎SMCHECKER💎</h1>
-<p align="center">Version 2.0</p>
+<h1 align="center">SMCheckerV2</h1>
+<p align="center">Version 2.0.0</p>
 
 | | |
 | :---: | :---: |
