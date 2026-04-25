@@ -1,5 +1,5 @@
 <h1 align="center">💎SMCHECKER💎</h1>
-<p align="center">Version 1.0.0</p>
+<p align="center">Version 2.0</p>
 
 | | |
 | :---: | :---: |
@@ -9,7 +9,7 @@
 
 
 ##  Release Information
-* **Version:** 1.0
+* **Version:** 2.0.0
 * **Status:** Release Stable
 * **Build:** (Python)
 
@@ -41,7 +41,7 @@
     $ git clone https://github.com/SmSystems01/SMCHECKER.git
     $ cd SMCHECKER
     $ pip install -r requirements.txt
-    $ python start.py
+    $ python main.py
 
 
 ## Linux(Ubuntu / Debian / etc)
@@ -52,7 +52,7 @@
     $ git clone https://github.com/SmSystems01/SMCHECKER.git
     $ cd SMCHECKER
     $ pip install -r requirements.txt
-    $ python start.py
+    $ python main.py
 
 
 ## 📕 Description
