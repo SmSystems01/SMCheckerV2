@@ -5,6 +5,9 @@
   <img src="https://github.com/user-attachments/assets/3d69a10f-1ca5-4071-9a0c-06acd31123d4" width="350" alt="Preview">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d69a10f-1ca5-4071-9a0c-06acd31123d4" width="350" alt="Preview">
+</p>
 
 
 ##  Release Information
@@ -22,8 +25,6 @@
 <p align="center">
   <h1 align="center"> INSTALLATION </h1>
 </p>
-
-
 
 
 
