@@ -2,7 +2,7 @@
 <p align="center">Version 2.0.9</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24981cdd-c364-4aab-9f59-2c439ed1c7c4" width="350" alt="Preview">
+  <img src="https://github.com/user-attachments/assets/3dc1e106-2cf6-4260-b60c-4f07842a1367" width="350" alt="Preview">
 </p>
 
 
