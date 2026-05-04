@@ -42,8 +42,9 @@
     $ pkg install git python -y
     $ git clone https://github.com/SmSystems01/SMCheckerV2.git
     $ cd SMCheckerV2
-    $ pip install -r requirements.txt
-    $ python main.py
+    $ chmod +x go.sh
+    $ ./go.sh
+    
 
 
 ## Linux(Ubuntu / Debian / etc)
@@ -53,8 +54,8 @@
     $ sudo apt install git python3 python3-pip -y
     $ git clone https://github.com/SmSystems01/SMCheckerV2.git
     $ cd SMCheckerV2
-    $ pip install -r requirements.txt
-    $ python main.py
+    $ chmod +x go.sh
+    $ ./go.sh
 
 
 ## 📕 Description
